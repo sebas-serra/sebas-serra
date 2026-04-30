@@ -1,6 +1,7 @@
 # Sobre mi 
 
-Soy estudiante de DAW con mentalidad de resolución de problemas y hambre de aprender. Me siento cómodo explorando nuevas herramientas, trabajo de forma organizada y siempre busco que cada proyecto en el que trabaje refleje calidad real y no solo código que funciona. 
+Soy estudiante de DAW con una mentalidad de resolución de problemas y pasión por aprender sobre todo tipo de tecnologías. Me siento cómodo explorando nuevas herramientas, trabajo de forma organizada y cuido que cada proyecto que entrego refleje calidad real, no solo código que funciona.
+
 
 ## Tecnologias y herramientas:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) \
