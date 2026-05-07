@@ -12,6 +12,6 @@ Soy estudiante de DAW con una mentalidad de resolución de problemas y pasión p
 
 
 ## Contacto:
-### Email: serranosebastian2007@gmail.com
-### Linkedin: https://www.linkedin.com/in/sebastian-serrano-perez/
+Email: serranosebastian2007@gmail.com \
+Linkedin: https://www.linkedin.com/in/sebastian-serrano-perez/
 
