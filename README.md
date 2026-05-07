@@ -9,3 +9,9 @@ Soy estudiante de DAW con una mentalidad de resolución de problemas y pasión p
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) \
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) \
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+
+## Contacto:
+### Email: serranosebastian2007@gmail.com
+### Linkedin: https://www.linkedin.com/in/sebastian-serrano-perez/
+
